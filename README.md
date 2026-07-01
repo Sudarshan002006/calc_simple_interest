@@ -9,12 +9,25 @@ int main() {
     printf("Enter the principal amount: ");
     scanf("%f", &principal);
 
+    
+    
+    
+    
+    
+    
     printf("Enter the rate of interest (in percentage): ");
     scanf("%f", &rate);
 
+    
+    
+    
+    
+    
     printf("Enter the time period (in years): ");
     scanf("%f", &time);
 
+    
+    
     // Calculate simple interest
     simple_interest = (principal * rate * time) / 100;
 
