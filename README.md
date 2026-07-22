@@ -17,12 +17,6 @@ int main() {
     
     printf("Enter the rate of interest (in percentage): ");
     scanf("%f", &rate);
-
-    
-    
-    
-    
-    
     printf("Enter the time period (in years): ");
     scanf("%f", &time);
 
